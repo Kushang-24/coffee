@@ -114,7 +114,7 @@
 
 .home {
 	min-height: 100vh;
-	background-image: url(cb.jpg);
+	background-image: url(../images/cb.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -260,7 +260,7 @@
 }
 
 .menu {
-	background-image: url(menu-bg.jpg);
+	background-image: url(../images/menu-bg.jpg);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -367,7 +367,7 @@
 
 .booking {
 	min-height: 100vh;
-	background-image: url(book-bg.jpg);
+	background-image: url(../images/book-bg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
