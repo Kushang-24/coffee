@@ -18,8 +18,17 @@
 		display:flex;
 		flex-wrap:wrap;
 	}
+	
+.icon-container {
+	display: block;
+
+}
 	.w-md-12{
 		width:100%;
+	}
+	
+	.w-md-10{
+		width:84%;
 	}
 	.w-md-6{
 		width:50%;
